@@ -5,3 +5,4 @@ Languages:
 - HTML
 - CSS
 - JAVA SCRIPT
+- PYTHON

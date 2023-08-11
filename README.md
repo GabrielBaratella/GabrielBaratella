@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  👨‍💻 About Me:
 My name is Gabriel Baratella, im from Sao Paulo, Brazil; I'm studying computer science; Currently focusing on learning.<br><br>• SPRING BOOT<br>• JAVA<br>• POSTGRESQL<br>• SQL SERVER<br>• BUSINESS INTELLIGENCE
 
 

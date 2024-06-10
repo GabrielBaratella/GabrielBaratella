@@ -1,5 +1,5 @@
 #  👨‍💻 About Me:
-My name is Gabriel Baratella, im from Sao Paulo, Brazil; I'm studying computer science; Currently focusing on learning.<br><br>• SPRING BOOT<br>• JAVA<br>• JAVASCRIPT<br>• POSTGRESQL<br>• SQL SERVER<br>• PENTAHO BUSINESS INTELLIGENCE<br>• IN PROGRESS (ANGULAR)
+My name is Gabriel Baratella, im from Sao Paulo, Brazil; I'm studying computer science; Currently focusing on learning.<br><br>• SPRING BOOT<br>• JAVA<br>• JAVASCRIPT<br>• POSTGRESQL<br>• SQL SERVER<br>• PENTAHO BUSINESS INTELLIGENCE<br>• POWER BI<br>• PYTHON
 
 
 ## 🌐 Socials:

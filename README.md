@@ -1,5 +1,6 @@
 #  👨‍💻 About Me:
-My name is Gabriel Baratella, im from Sao Paulo, Brazil; I'm studying computer science; Currently focusing on learning.<br><br>• SPRING BOOT<br>• JAVA<br>• ANGULAR<br>• JAVASCRIPT<br>• POSTGRESQL<br>• SQL SERVER<br>• PENTAHO BUSINESS INTELLIGENCE<br>• POWER BI<br>• PYTHON
+My name is Gabriel Baratella, I am 22 years old, and I have a degree in Computer Science. I work as a Java developer. Additionally, I am directly involved in data conversions (ETL), which include the efficient manipulation, transformation, and integration of data for system migration.
+<br><br>• SPRING BOOT<br>• JAVA<br>• ANGULAR<br>• JAVASCRIPT<br>• POSTGRESQL<br>• SQL SERVER<br>• PENTAHO BUSINESS INTELLIGENCE<br>• POWER BI<br>• PYTHON
 
 
 ## 🌐 Socials:
